@@ -1,3 +1,6 @@
+#ignore files
+HW20241125_Saksithon_44789.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
