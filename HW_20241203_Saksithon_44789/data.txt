@@ -1,0 +1,2 @@
+Thailand,Bangkok
+US,London
